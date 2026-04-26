@@ -1,0 +1,9 @@
+# Install modules
+Install-Module Microsoft.Graph
+
+# Connect
+Connect-MgGraph -Scopes "User.ReadWrite.All", "Directory.ReadWrite.All"
+
+# Run script
+cd scripts
+.\New-User-Onboarding.ps1

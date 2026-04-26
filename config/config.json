@@ -1,0 +1,6 @@
+{
+  "TenantName": "firma.onmicrosoft.com",
+  "DefaultUsageLocation": "SK",
+  "DefaultPassword": "P@ssw0rd123",
+  "LogPath": "./logs/"
+}

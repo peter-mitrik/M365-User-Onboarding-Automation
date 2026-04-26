@@ -1,0 +1,3 @@
+FirstName,LastName,DisplayName,UserPrincipalName,Department,JobTitle,License,UsageLocation,Password
+John,Doe,John Doe,john.doe@firma.sk,IT,Administrator,M365_BUSINESS_STANDARD,SK,P@ssw0rd123
+Jane,Smith,Jane Smith,jane.smith@firma.sk,HR,Manager,M365_BUSINESS_PREMIUM,SK,P@ssw0rd123
